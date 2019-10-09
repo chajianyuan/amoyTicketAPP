@@ -1,0 +1,55 @@
+
+.search.data-v-3fc32fee{
+	background: -webkit-gradient(linear, left top, left bottom, from(rgb(254,76,98)), to(rgb(254,100,120)));
+	background: -webkit-linear-gradient(rgb(254,76,98), rgb(254,100,120));
+	background: -o-linear-gradient(rgb(254,76,98), rgb(254,100,120));
+	background: linear-gradient(rgb(254,76,98), rgb(254,100,120));
+	-webkit-border-radius: 10px;
+	        border-radius: 10px;
+}
+.action.data-v-3fc32fee{
+	opacity: 0.8;
+	height: 27px;
+	padding-left: 2px;
+	-webkit-border-radius: 15px;
+	        border-radius: 15px;
+}
+.search-form.data-v-3fc32fee{
+	opacity: 0.8;
+}
+.hotFilm.data-v-3fc32fee {
+	height: 240px;
+	width: 100%;
+}
+.flex-sub.data-v-3fc32fee {
+	top: 0;
+}
+.cu-card.data-v-3fc32fee {
+	height: 100%;
+	width: 100px;
+}
+.button.data-v-3fc32fee{
+	text-align: center;
+	font-family: "Times New Roman";
+}
+.tabbar.data-v-3fc32fee{
+	margin-bottom: 0px;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+.swiperStyle.data-v-3fc32fee{
+	margin-top: -15px;
+	-webkit-border-radius: 15px;
+	        border-radius: 15px;
+}
+.header.data-v-3fc32fee{
+	background: -webkit-gradient(linear, left top, left bottom, from(rgb(254,76,98)), to(white));
+	background: -webkit-linear-gradient(rgb(254,76,98), white);
+	background: -o-linear-gradient(rgb(254,76,98), white);
+	background: linear-gradient(rgb(254,76,98), white);
+}
+.grid.data-v-3fc32fee{
+	/* font-size: 15px; */
+}
+

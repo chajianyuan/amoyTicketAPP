@@ -1,0 +1,10 @@
+
+.bindWechat {
+	text-align: center;
+	margin: 10px auto;
+	width: 80%;
+}
+.bindWechat button {
+	width: 100%;
+}
+

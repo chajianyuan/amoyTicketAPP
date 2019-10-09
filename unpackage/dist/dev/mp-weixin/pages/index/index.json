@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "淘影票",
+  "usingComponents": {
+    "uni-grid": "/components/uni-grid/uni-grid"
+  }
+}

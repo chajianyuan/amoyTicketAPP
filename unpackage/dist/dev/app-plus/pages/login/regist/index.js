@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"content { margin: 100px 10px; }\n.",[1],"registBtn { text-align: center; margin: 10px auto; width: 80%; }\n.",[1],"registBtn wx-button { width: 100%; }\n",],undefined,{path:"./pages/login/regist/index.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/login/regist/index.wxml') } }));

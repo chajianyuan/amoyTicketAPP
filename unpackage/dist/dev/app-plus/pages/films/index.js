@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"buttonStyle { line-height: 100px; }\n.",[1],"lowPrice { position: fixed; right: 5px; top: 5px; }\n",],undefined,{path:"./pages/films/index.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/films/index.wxml') } }));

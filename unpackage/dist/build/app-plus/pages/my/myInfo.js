@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"bindWechat { text-align: center; margin: 10px auto; width: 80%; }\n.",[1],"bindWechat wx-button { width: 100%; }\n",],undefined,{path:"./pages/my/myInfo.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/my/myInfo.wxml') } }));

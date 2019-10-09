@@ -1,0 +1,10 @@
+
+.buttonStyle {
+	line-height: 100px;
+}
+.lowPrice {
+	position: fixed;
+	right: 5px;
+	top: 5px;
+}
+

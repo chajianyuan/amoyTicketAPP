@@ -1,0 +1,166 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+
+		// 首页
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "淘影票",
+				"navigationBarBackgroundColor": "rgb(254,76,98)",
+				"navigationBarTextStyle":"white"
+			}
+		},
+		// 搜索页面
+		{
+			"path": "pages/index/searchAddr/index",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		// 电影页面
+		{
+			"path": "pages/films/index",
+			"style": {
+				"navigationBarTitleText": "电影"
+			}
+		},
+		// 挑选影院页面
+		{
+			"path": "pages/films/findCinema",
+			"style": {
+				"app-plus":{
+					"titleNView":false
+				}
+			}
+		},
+		// 挑选影院页面
+		{
+			"path": "pages/films/searchFilmCinema",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		// 挑选电影场次页面
+		{
+			"path": "pages/films/movieSession",
+			"style": {
+				"navigationBarTitleText": "影院",
+				"app-plus":{
+					"titleNView":false
+				}
+			}
+		},
+		// 电影详情页面
+		{
+			"path": "pages/films/filmDetail",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/films/filmType",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		// 选座页面
+		{
+			"path": "pages/films/cinemaSeat",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		// 电影票详情页面
+		{
+			"path": "pages/films/comPay",
+			"style": {
+				"navigationBarTitleText": "电影票详情"
+			}
+		},
+		// 我的页面
+		{
+			"path": "pages/my/index",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"navigationBarBackgroundColor":"white"
+			}
+		},
+		// 想看的电影
+		{
+			"path": "pages/my/like",
+			"style": {
+				"navigationBarTitleText": "想看的电影"
+			}
+		},
+		// 买了还未看的电影
+		{
+			"path": "pages/my/notSeen",
+			"style": {
+				"navigationBarTitleText": "已购买还未看的电影"
+			}
+		},
+		// 看过的电影
+		{
+			"path": "pages/my/seen",
+			"style": {
+				"navigationBarTitleText": "看过的电影"
+			}
+		},
+		// 个人信息界面
+		{
+			"path": "pages/my/myInfo",
+			"style": {
+				"navigationBarTitleText": "个人中心"
+			}
+		},
+		// 评分页面
+		{
+			"path": "pages/my/score",
+			"style": {
+				"navigationBarTitleText": "评分"
+			}
+		},
+		// 注册页面
+		{
+			"path": "pages/login/regist/index",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		// 登录页面
+		{
+			"path": "pages/login/index",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		// "navigationBarBackgroundColor": "rgb(254,76,98)",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "rgb(254,76,98)",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+			"pagePath": "pages/index/index",
+			"iconPath": "./static/home.png",
+			"selectedIconPath": "./static/homeSelected.png",
+			"text": "首页"
+		}, {
+			"pagePath": "pages/films/index",
+			"iconPath": "./static/film.png",
+			"selectedIconPath": "./static/filmSelected.png",
+			"text": "电影"
+		}, {
+			"pagePath": "pages/my/index",
+			"iconPath": "./static/my.png",
+			"selectedIconPath": "./static/mySelected.png",
+			"text": "我的"
+		}]
+	}
+}

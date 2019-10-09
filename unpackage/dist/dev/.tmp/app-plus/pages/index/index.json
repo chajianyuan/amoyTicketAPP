@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "淘影票",
+  "navigationBarBackgroundColor": "rgb(254,76,98)",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "uni-grid": "/components/uni-grid/uni-grid"
+  }
+}

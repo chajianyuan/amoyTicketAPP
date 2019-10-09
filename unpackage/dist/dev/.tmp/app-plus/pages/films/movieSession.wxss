@@ -1,0 +1,18 @@
+
+.status_bar {
+	height: var(--status-bar-height);
+	width: 100%;
+	background-color: #f8f8f8;
+}
+.top_view {
+	height: var(--status-bar-height);
+	width: 100%;
+	position: fixed;
+	background-color: #f8f8f8;
+	top: 0;
+	z-index: 999;
+}
+.wenzi {
+	font-family: 'Courier New', Courier, monospace;
+}
+

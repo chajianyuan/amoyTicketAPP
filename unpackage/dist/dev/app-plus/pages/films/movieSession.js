@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"status_bar { height: var(--status-bar-height); width: 100%; background-color: #f8f8f8; }\n.",[1],"top_view { height: var(--status-bar-height); width: 100%; position: fixed; background-color: #f8f8f8; top: 0; z-index: 999; }\n.",[1],"wenzi { font-family: \x27Courier New\x27, Courier, monospace; }\n",],undefined,{path:"./pages/films/movieSession.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/films/movieSession.wxml') } }));

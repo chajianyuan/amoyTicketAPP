@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"buttonStyle { line-height: 100px; }\n",],undefined,{path:"./pages/films/filmType.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/films/filmType.wxml') } }));

@@ -1,0 +1,7 @@
+
+.lowPrice {
+	position: fixed;
+	right: 5px;
+	top: 5px;
+}
+

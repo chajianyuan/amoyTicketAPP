@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "已购买还未看的电影",
+  "usingComponents": {
+    "uni-rate": "/components/uni-rate/uni-rate"
+  }
+}

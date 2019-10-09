@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"button { width: 100%; position: fixed; bottom: 0; }\n",],undefined,{path:"./pages/films/cinemaSeat.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/films/cinemaSeat.wxml') } }));

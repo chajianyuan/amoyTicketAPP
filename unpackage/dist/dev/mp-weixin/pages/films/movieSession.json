@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "yn-gallery": "/components/YnComponents/ynGallery/ynGallery",
+    "uni-segmented-control": "/components/uni-segmented-control/uni-segmented-control"
+  }
+}

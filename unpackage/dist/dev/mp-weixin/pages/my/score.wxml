@@ -1,0 +1,1 @@
+<view class="bg-white"><view class="solid-bottom padding" style="text-align:center;"><text class="text-xl">我的评分<text class="text-orange">{{score}}</text>分</text><view><uni-rate vue-id="1" max="10" value="5" bind:__l="__l"></uni-rate></view></view></view>
