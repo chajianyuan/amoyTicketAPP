@@ -1,5 +1,5 @@
 # amoyTicketAPP
-仿淘票票APP（淘影票）,
+仿淘票票APP（淘影票）
 
 <div><img src="https://github.com/cjy1/picture/blob/master/01.png?raw=true" width="200"/>
 <img src="https://github.com/cjy1/picture/blob/master/02.png?raw=true" width="200"/>
