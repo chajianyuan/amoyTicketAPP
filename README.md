@@ -1,7 +1,7 @@
 # amoyTicketAPP
 仿淘票票APP（淘影票）,
 
-<img src="https://github.com/cjy1/picture/blob/master/01.png?raw=true" width="200"/>
+<div><img src="https://github.com/cjy1/picture/blob/master/01.png?raw=true" width="200"/>
 <img src="https://github.com/cjy1/picture/blob/master/02.png?raw=true" width="200"/>
 <img src="https://github.com/cjy1/picture/blob/master/03.png?raw=true" width="200"/>
 <img src="https://github.com/cjy1/picture/blob/master/04.png?raw=true" width="200"/>
@@ -26,4 +26,4 @@
 <img src="https://github.com/cjy1/picture/blob/master/23.png?raw=true" width="200"/>
 <img src="https://github.com/cjy1/picture/blob/master/24.png?raw=true" width="200"/>
 <img src="https://github.com/cjy1/picture/blob/master/25.png?raw=true" width="200"/>
-<img src="https://github.com/cjy1/picture/blob/master/26.png?raw=true" width="200"/>
+<img src="https://github.com/cjy1/picture/blob/master/26.png?raw=true" width="200"/></div>
